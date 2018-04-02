@@ -1,0 +1,8 @@
+name: DisableMovementCheck
+main: com.nukkitx.plugin.dmc.DisableMovementCheck
+version: "1.0.0"
+api: ["1.0.6"]
+load: POSTWORLD
+author: SupremeMortal
+description: Disables movement checks for all players
+website: https://github.com/SupremeMortal/DisableMovementCheck
